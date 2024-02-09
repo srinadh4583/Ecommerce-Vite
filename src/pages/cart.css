@@ -1,0 +1,43 @@
+/* cart.css */
+
+.cart-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .cart-item {
+    display: flex;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .cart-item-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 10px;
+  }
+  
+  .cart-item-details {
+    flex: 1;
+  }
+  
+  h3 {
+    color: yellow;
+    margin: 0;
+  }
+  
+  strong {
+    color: #e44d26;
+  }
+  
+  p {
+    color: #666;
+  }
+  
